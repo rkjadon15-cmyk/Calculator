@@ -19,8 +19,7 @@ It performs basic arithmetic operations through a clean, easy-to-use interface.
 3. Start calculating
 
 ## Live Demo
-(Add your GitHub Pages link here)
-
+https://rkjadon15-cmyk.github.io/Calculator/
 ## Author
 Rishabh Kumar
 LinkedIn: linkedin.com/in/rishabh-kumar7037
